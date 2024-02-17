@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/faheem.jpg",
+    profile_pic: "./image/aswin.jpeg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Faheem Ahmad",
-    designation: "Company Owner ",
-    des_link_text: "@National Point",
+    Name: "ASHWIN ARAVIND",
+    designation: "MARKETING ",
+    des_link_text: "@SUNO RADIO NETWORK",
     des_link: "",
-    contact: "./contact/faheem.vcf",
+    contact: "./contact/ashwin.vcf",
 };
 
 const contact ={
-    contact_no: "+971555702102",
-    whatsapp: "971555702102",
-    location: "https://www.google.com/maps/place/25%C2%B016'33.5%22N+55%C2%B018'33.6%22E/@25.2759581,55.3093394,15z/data=!4m4!3m3!8m2!3d25.2759581!4d55.3093394",
-    email: "faheemahmad982@gmail.com",
+    contact_no: "+97477917917",
+    whatsapp: "97477917917",
+    location: "",
+    email: "sc@olivesuno.com",
 };
 
 const profilelogo=[
@@ -27,11 +27,11 @@ const profilelogo=[
 const links =[
     facebook={
     visibil: true,
-    link:"https://m.facebook.com/people/National-Point/61555328157061/"
+    link:"https://www.facebook.com/ashwin.aravind2?mibextid=LQQJ4d"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/nationalpoint7/?igsh=MTZvNGIzajZrMnQ2bw%3D%3D&amp;utm_source=qr"
+    link:"https://www.instagram.com/ashwinaravind20?igsh=YXJnZWRjeThkMXJn&amp;utm_source=qr"
   },
     skype={
     visibil: false,
@@ -42,8 +42,8 @@ const links =[
     link:"https://www.sultanmedicalcenter.com/"
   },
     linkedin={
-    visibil: false,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    visibil: true,
+    link:"https://www.linkedin.com/in/ashwin-aravind-a6922355?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app"
   },
     behance={
     visibil: false,
@@ -54,11 +54,11 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
-    visibil: true,
+    visibil: false,
     link:"nationalpoint7@gmail.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://g.co/kgs/iYGMWK3"
   },
     telegram={
